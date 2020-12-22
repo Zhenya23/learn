@@ -1,0 +1,16 @@
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\storage.exe
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\storage.deps.json
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\storage.runtimeconfig.json
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\storage.runtimeconfig.dev.json
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\storage.dll
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\ref\storage.dll
+C:\Users\Zhenya\Desktop\storage\storage\storage\bin\Debug\net5.0\storage.pdb
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.csprojAssemblyReference.cache
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.AssemblyInfoInputs.cache
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.AssemblyInfo.cs
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.dll
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\ref\storage.dll
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.pdb
+C:\Users\Zhenya\Desktop\storage\storage\storage\obj\Debug\net5.0\storage.genruntimeconfig.cache
